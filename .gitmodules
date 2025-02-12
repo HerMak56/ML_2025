@@ -1,0 +1,6 @@
+[submodule "ML2025_lectures"]
+	path = ML2025_lectures
+	url = git@github.com:adasegroup/ML2025_lectures.git
+[submodule "ML2025_seminars"]
+	path = ML2025_seminars
+	url = git@github.com:adasegroup/ML2025_seminars.git
